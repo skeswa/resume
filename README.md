@@ -6,4 +6,4 @@ I use the Proxima Nova typeface for all of my headings, Helvetica for all of my 
 Pages' table feature is how I achieve the mosaic-style layout of my paragraphs - although, in retrospect, having MS Word would have 
 probably made all of this dramatically easier.  
 
-If you have any suggestion for enhancements or improvements, drop me an issue or PR.
+If you have any suggestions for enhancements or improvements, drop me an issue or a PR.
